@@ -1,0 +1,1 @@
+{"version":3,"file":"read.usecase.js","sourceRoot":"","sources":["../../../../../src/app/usecases/property/read.usecase.ts"],"names":[],"mappings":";;AAGA,MAAqB,WAAW;IAC9B,YAA6B,kBAAsC;QAAtC,uBAAkB,GAAlB,kBAAkB,CAAoB;IAAG,CAAC;IAEvE,KAAK,CAAC,OAAO,CAAC,IAAY;QACxB,OAAO,MAAM,IAAI,CAAC,kBAAkB,CAAC,QAAQ,CAAC,IAAI,CAAC,CAAC;IACtD,CAAC;CACF;AAND,8BAMC"}
